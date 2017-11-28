@@ -3423,3 +3423,24 @@
 	.skills {
 		width: 100%;
 	}
+
+	.about-links {
+		padding-top: 20px;
+	}
+
+	.myicon {
+		font-size: 60px;
+	}
+
+	.skill-icon {
+		padding-left: 30px!important;
+	}
+
+	ul.major-icons li {
+		padding: 0;
+	}
+
+	.image.fit .pro-pic {
+		/*width: 400px;
+		border-radius: 50%;*/
+	}
