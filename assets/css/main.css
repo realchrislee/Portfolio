@@ -1566,6 +1566,10 @@
 			}
 
 		}
+		
+	#projects ul {
+		border-bottom: 1px solid white;	
+	}
 
 	#projects ul, .major-icons, .resume {
 		display: -moz-flex;
@@ -1575,10 +1579,12 @@
 		margin-bottom: 0;
 		list-style: none;
 		padding-left: 0;
+		padding-bottom: 2.5rem;	
 	}
 
 	#projects ul:last-of-type {
 		padding-bottom: 24px;
+		border-bottom: none!important;
 	}
 
 	.resume {
